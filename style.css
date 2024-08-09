@@ -1,0 +1,690 @@
+body{
+    margin: 0;
+}
+
+
+.page1{
+    background-image: url(Homepage-Model-3-Desktop-LHD-v2.avif);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.tesla{
+    margin-top: 20px;
+    padding-left: 51px;
+    width: 120px;
+    height: 12px;
+    float: left; 
+}
+.navbar{
+    padding-top: 5px;
+    margin-left: 525px;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: grey;
+    padding:0;
+    margin: 0;
+}
+.navbar li{
+    float: left;
+
+}
+.navbar a{
+    color: black;
+    font-family: sans-serif;
+    font-size:14px;
+    text-decoration: none;
+    padding: 12px;
+    text-align: center;
+    display: block;
+    margin-left: 15px;
+}
+.image1{
+    padding-right: 49px;
+    width: 23px;
+    float: right;
+    margin-top: 9px;
+}
+.image2{
+    width: 26px;
+    float: right;
+    margin-top: 8px;
+    padding-right: 15px;
+}
+.image3{
+    width: 26px;
+    float: right;
+    margin-top: 9px;
+    padding-right: 14px;
+}
+.content1{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    padding-top: 19px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.heading1{
+    font-size: 40px;
+    text-align: center;
+}
+.para1{
+    margin-top: -50px;
+    color: rgb(0, 0, 0);
+    padding-left: 71px;
+}
+.linkpara1{
+
+    color: rgb(57, 57, 57);
+    font-size:24px;
+    padding-left: 13px;
+}
+.link1{
+    margin-top: -22px;
+    padding-left: 77px;
+}
+.order1{
+    text-align: center;
+    font-size: 17px;
+    width: 257px;
+    height: 45px;
+    border-radius: 5px;
+
+}
+.demo1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    background-color: rgb(0, 0, 0);
+    width: 257px;
+    height: 45px; 
+    border-radius: 5px;
+    margin-left: 18px;
+    
+}
+.demolink1{
+    text-decoration: none;
+    color: white;
+}
+.orderlink1{
+    text-decoration: none;
+    color: black;
+}
+.demo1::placeholder{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+
+}
+.order1::placeholder{
+    color: rgb(42, 42, 42);
+    font-size: 15px;
+}
+.demo1:hover{
+    background-color: rgb(51, 52, 52);
+}
+.order1:hover{
+    background-color: rgb(202, 192, 192);
+}
+.article{
+    padding-top: 340px;
+}
+.page2{
+    background-image:url(Homepage-Model-Y-Desktop-Global.avif);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    
+}
+.content2{
+    padding-left: 528px;
+    padding-top: 111px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.heading2{
+    font-size: 40px;
+    padding-left: 140px;
+    margin-top:-1px ;
+    margin-bottom: 6px;
+
+}
+.link2{
+    float: left;
+    color: black;
+    margin-top: -20px;
+    margin: 0;
+    color: rgb(39, 38, 38);
+}
+.para2{
+    clear: both;
+    padding-left: 132px;
+    padding-bottom: 350px;
+    margin-top: 0;
+    padding-left: 131px;
+}
+.order2{
+    text-align: center;
+    font-size: 17px;
+    width: 257px;
+    height: 45px;
+    border-radius: 5px;
+    margin-left: -80px;
+}
+.demo2{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    background-color: rgb(0, 0, 0);
+    width: 257px;
+    height: 45px; 
+    border-radius: 5px;
+    margin-left: 18px;
+    
+}
+.demolink2{
+    text-decoration: none;
+    color: white;
+}
+.orderlink2{
+    text-decoration: none;
+    color: black;
+}
+.demo2::placeholder{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+
+}
+.order2::placeholder{
+    color: rgb(42, 42, 42);
+    font-size: 15px;
+}
+.demo2:hover{
+    background-color: rgb(51, 52, 52);
+}
+.order2:hover{
+    background-color: rgb(202, 192, 192);
+}
+.page2link{
+    margin: 0;
+}
+
+
+
+.page3{
+    background-image:url(Homepage-Model-X-Desktop-v2.avif);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;   
+}
+.heading3{
+    font-size: 40px;
+    margin: 0;
+}
+.content3{
+    text-align: center;
+    padding-top: 100px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.para3{
+    margin:0 ;
+}
+.page3link{
+    margin: 0;
+    margin-bottom: 390px;
+
+}
+.link3{
+    color: rgb(44, 44, 44);
+}
+.order3{
+    text-align: center;
+    font-size: 17px;
+    width: 257px;
+    height: 45px;
+    border-radius: 5px;
+    
+}
+.demo3{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    background-color: rgb(0, 0, 0);
+    width: 257px;
+    height: 45px; 
+    border-radius: 5px;
+    margin-left: 18px;
+    margin-right: 19px;
+}
+.demolink3{
+    text-decoration: none;
+    color: white;
+}
+.orderlink3{
+    text-decoration: none;
+    color: black;
+}
+.demo3::placeholder{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+
+}
+.order3::placeholder{
+    color: rgb(42, 42, 42);
+    font-size: 15px;
+}
+.demo3:hover{
+    background-color: rgb(51, 52, 52);
+}
+.order3:hover{
+    background-color: rgb(202, 192, 192);
+}
+
+
+
+.page4{
+    background-image:url(Homepage-Model-S-Desktop-v2.avif);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;   
+}
+.heading4{
+    font-size: 40px;
+    margin: 0;
+    color: white;
+}
+.content4{
+    text-align: center;
+    padding-top: 100px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white
+}
+.para4{
+    margin:0 ;
+}
+.page4link{
+    margin: 0;
+    margin-bottom: 390px;
+}
+.link4{
+    color: rgb(229, 222, 222);
+}
+.order4{
+    text-align: center;
+    font-size: 17px;
+    width: 257px;
+    height: 45px;
+    border-radius: 5px;
+    
+}
+.demo4{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    background-color: rgb(0, 0, 0);
+    width: 257px;
+    height: 45px; 
+    border-radius: 5px;
+    margin-left: 18px;
+    margin-right: 19px;
+}
+.demolink4{
+    text-decoration: none;
+    color: white;
+}
+.orderlink4{
+    text-decoration: none;
+    color: black;
+}
+.demo4::placeholder{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+
+}
+.order4::placeholder{
+    color: rgb(42, 42, 42);
+    font-size: 15px;
+}
+.demo4:hover{
+    background-color: rgb(51, 52, 52);
+}
+.order4:hover{
+    background-color: rgb(202, 192, 192);
+}
+
+
+.page5{
+    background-image:url(Homepage-Cybertruck-Desktop.avif);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;   
+}
+.content5{
+    text-align: center;
+    padding-top: 100px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    padding-top: 580px;
+}
+.pgimg5{
+    width: auto;
+    height: 120px;
+    position: absolute;
+    bottom: -2450px;
+    right: 535px;
+}
+.order5{
+    text-align: center;
+    font-size: 17px;
+
+    width: 257px;
+    height: 45px;
+    border-radius: 5px;
+    background-color: rgb(19, 19, 19);
+}
+.demo5{
+    text-align: center;
+    font-size: 17px;
+    background-color: rgb(19, 19, 19);
+    width: 257px;
+    height: 45px; 
+    border-radius: 5px;
+    margin-left: 18px;
+    margin-right: 19px;
+}
+.demolink5{
+    text-decoration: none;
+    color: white;
+}
+.orderlink5{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.demo5::placeholder{
+    color: rgb(178, 166, 166);
+    font-size: 15px;
+
+}
+.order5::placeholder{
+    color: rgb(174, 155, 155);
+    font-size: 15px;
+}
+.demo5:hover{
+    background-color: rgb(51, 52, 52);
+}
+.order5:hover{
+    background-color: rgb(54, 52, 52);
+}
+
+.page6{
+    background-image:url(Homepage-SolarPanels-01-Desktop.avif);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;   
+}
+.heading6{
+    font-size: 40px;
+    margin: 0;
+    color: white;
+}
+.content6{
+    text-align: center;
+    padding-top: 120px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white
+}
+.para6{
+    margin:0 ;
+}
+.page6link{
+    margin: 0;
+    margin-bottom: 390px;
+}
+.link6{
+    color: rgb(229, 222, 222);
+}
+.order6{
+    text-align: center;
+    font-size: 17px;
+    width: 257px;
+    height: 45px;
+    border-radius: 5px;
+    
+}
+.demo6{
+    text-align: center;
+    font-size: 17px;
+    background-color: rgb(38, 37, 37);
+    width: 257px;
+    height: 45px; 
+    border-radius: 5px;
+    margin-left: 18px;
+    margin-right: 19px;
+}
+.demolink6{
+    text-decoration: none;
+    color: white;
+}
+.orderlink6{
+    text-decoration: none;
+    color: black;
+}
+.demo6::placeholder{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+
+}
+.order6::placeholder{
+    color: rgb(42, 42, 42);
+    font-size: 15px;
+}
+.demo6:hover{
+    background-color: rgb(51, 52, 52);
+}
+.order6:hover{
+    background-color: rgb(202, 192, 192);
+}
+
+.page7{
+    background-image:url(Homepage-SolarRoof-Desktop-Global.avif);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;   
+}
+.heading7{
+    font-size: 40px;
+    margin: 0;
+    color: rgb(0, 0, 0);
+}
+.content7{
+    text-align: center;
+    padding-top: 100px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0)
+
+}
+.para7{
+    margin:0 ;
+    margin-bottom: 400px;
+}
+.order7{
+    text-align: center;
+    font-size: 17px;
+    width: 257px;
+    height: 45px;
+    border-radius: 5px;
+    
+}
+.demo7{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    background-color: rgb(0, 0, 0);
+    width: 257px;
+    height: 45px; 
+    border-radius: 5px;
+    margin-left: 18px;
+    margin-right: 19px;
+}
+.demolink7{
+    text-decoration: none;
+    color: white;
+}
+.orderlink7{
+    text-decoration: none;
+    color: black;
+}
+.demo7::placeholder{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+
+}
+.order7::placeholder{
+    color: rgb(42, 42, 42);
+    font-size: 15px;
+}
+.demo7:hover{
+    background-color: rgb(51, 52, 52);
+}
+.order7:hover{
+    background-color: rgb(202, 192, 192);
+}
+
+.page8{
+    background-image:url(Homepage-Powerwall-01-Desktop.avif);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;   
+}
+.heading8{
+    font-size: 40px;
+    margin: 0;
+    color: rgb(0, 0, 0);
+
+}
+.content8{
+    text-align: center;
+    padding-top: 100px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0)
+}
+
+.order8{
+    text-align: center;
+    font-size: 17px;
+    width: 257px;
+    height: 45px;
+    border-radius: 5px;
+    margin-top: 450px;
+}
+.demo8{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    background-color: rgb(0, 0, 0);
+    width: 257px;
+    height: 45px; 
+    border-radius: 5px;
+    margin-left: 18px;
+    margin-right: 19px;
+}
+.demolink8{
+    text-decoration: none;
+    color: white;
+}
+.orderlink8{
+    text-decoration: none;
+    color: black;
+}
+    
+.demo8::placeholder{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+
+}
+.order8::placeholder{
+    color: rgb(42, 42, 42);
+    font-size: 15px;
+}
+.demo8:hover{
+    background-color: rgb(51, 52, 52);
+}
+.order8:hover{
+    background-color: rgb(202, 192, 192);
+}
+
+
+.page9{
+    background-image:url(Homepage-Accessories-Desktop-NA-APAC.avif);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;   
+}
+.heading9{
+    font-size: 40px;
+    margin: 0;
+    color: rgb(0, 0, 0);
+
+}
+.content9{
+    text-align: center;
+    padding-top: 100px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0)
+}
+
+.order9{
+    text-align: center;
+    font-size: 17px;
+    width: 257px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 400px;
+}
+.shop{
+    text-decoration:none;
+    color: black;
+    }
+.order9::placeholder{
+    color: rgb(42, 42, 42);
+    font-size: 15px;
+}
+.order9:hover{
+    background-color: rgb(202, 192, 192);
+}
+
+.fotter{
+    padding-top: 30px;
+    width: 100%;
+    height: 420px;
+    background-color: black;
+    color: rgb(225, 212, 212);
+    text-align: center;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.fottercon{
+    color:rgb(224, 217, 217) ;
+}
+.fotnav{
+    padding-top: 50px;
+    font-size: 13px;
+
+}
+.fontnavlink{
+    text-decoration: none;
+    color: white;
+}
